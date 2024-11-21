@@ -171,3 +171,6 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+
+# dataset
+extras/exercises/data/
