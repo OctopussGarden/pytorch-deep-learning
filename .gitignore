@@ -175,3 +175,6 @@ mkdocs-material-insiders
 # dataset
 extras/exercises/data/
 data/
+
+# models
+extras/exercises/models/
